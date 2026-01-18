@@ -1,0 +1,1 @@
+# mc-bedrock-afk
